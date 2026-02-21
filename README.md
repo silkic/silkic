@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @silkic
-- 👀 I’m interested in Development and Cloud.
-- 🌱 I’m currently pursuing B.Tech degree in the stream of Information Technology.
-- 🎓 A student who is dreaming to be the best of her.
+- 👀 Interested in Development and Cloud.
 - 📍  Learn, pursue, grow
 - 📫 Reach me @ silkic179@gmail.com
 
